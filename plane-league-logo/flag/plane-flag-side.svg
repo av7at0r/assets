@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+<path d="M 30 52 C 190 18, 390 78, 570 34 L 574 348 C 390 384, 200 326, 26 366 Z" fill="#14205A"/>
+<path d="M 30 52 C 190 18, 390 78, 570 34 L 574 348 C 390 384, 200 326, 26 366 Z" fill="none" stroke="#FFFFFF" stroke-width="3.5" transform="translate(300 200) scale(0.935 0.9) translate(-300 -200)"/>
+<g transform="translate(304 206) rotate(-7) scale(1.0)"><g fill="#FFFFFF">
+  <path d="M -192 -14 L -184 -86 L -160 -86 L -112 -18 L 138 -18 C 166 -18 186 -10 194 2 C 189 14 176 19 158 19 L -118 19 C -150 19 -176 9 -194 -2 Z"/>
+  <path d="M -168 -4 L -214 10 L -204 15 L -138 6 Z"/>
+  <path d="M 26 12 L -74 58 L -50 60 L 70 16 Z"/>
+  <rect x="2" y="22" width="62" height="20" rx="10"/>
+</g>
+<g fill="#14205A">
+  <circle cx="-92" cy="-3" r="3.6"/><circle cx="-77" cy="-3" r="3.6"/><circle cx="-62" cy="-3" r="3.6"/><circle cx="-47" cy="-3" r="3.6"/><circle cx="-32" cy="-3" r="3.6"/><circle cx="-17" cy="-3" r="3.6"/><circle cx="-2" cy="-3" r="3.6"/><circle cx="13" cy="-3" r="3.6"/><circle cx="28" cy="-3" r="3.6"/><circle cx="43" cy="-3" r="3.6"/><circle cx="58" cy="-3" r="3.6"/><circle cx="73" cy="-3" r="3.6"/><circle cx="88" cy="-3" r="3.6"/><circle cx="103" cy="-3" r="3.6"/><circle cx="118" cy="-3" r="3.6"/>
+  <path d="M 150 -10 L 172 -10 C 178 -8 182 -5 184 -2 L 150 -2 Z"/>
+</g></g></svg>
