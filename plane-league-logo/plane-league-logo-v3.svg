@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 330" width="640" height="330">
+  <title>Plane league logo v3</title>
+  <defs><clipPath id="c"><rect x="14" y="14" width="612" height="302" rx="40"/></clipPath></defs>
+  <rect width="640" height="330" rx="54" fill="#FFFFFF"/>
+  <g clip-path="url(#c)">
+    <rect width="640" height="330" fill="#1D3FAF"/>
+    <path d="M 0 0 L 175 0 L 200 175 L 340 200 L 222 340 L 0 340 Z" fill="#C8102E"/>
+    <g fill="#FFFFFF">
+      <!-- tail fin to top edge -->
+      <path d="M 150 -10 L 218 -10 L 318 152 L 168 160 Z"/>
+      <!-- fuselage, nose right -->
+      <path d="M 166 146 L 560 146 C 590 146 612 162 614 176 C 612 190 594 202 566 202 L 300 202 C 240 202 195 192 160 164 Z"/>
+      <!-- near horizontal stabilizer -->
+      <path d="M 220 180 L 128 236 L 158 238 L 268 194 Z"/>
+      <!-- near wing to bottom edge -->
+      <path d="M 340 196 L 440 196 L 300 340 L 214 340 Z"/>
+      <!-- engine under wing -->
+      <rect x="384" y="214" width="74" height="28" rx="14"/>
+    </g>
+    <!-- windows + cockpit in blue -->
+    <g fill="#1D3FAF">
+      <circle cx="330" cy="166" r="5"/><circle cx="352" cy="166" r="5"/><circle cx="374" cy="166" r="5"/>
+      <circle cx="396" cy="166" r="5"/><circle cx="418" cy="166" r="5"/><circle cx="440" cy="166" r="5"/>
+      <circle cx="462" cy="166" r="5"/><circle cx="484" cy="166" r="5"/><circle cx="506" cy="166" r="5"/>
+      <path d="M 566 160 L 594 160 C 600 163 603 166 604 170 L 566 170 Z"/>
+    </g>
+  </g>
+</svg>
